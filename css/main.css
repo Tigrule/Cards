@@ -1,0 +1,10 @@
+body {
+    width: 1300px;
+}
+
+main {
+    width: 1000px;
+    background: linear-gradient(white, #aaaaaa);
+    margin: 0 auto;
+
+}
